@@ -1,3 +1,6 @@
+# GALLERY
+---
+
 ## CS PROJECTS
 ---
 
