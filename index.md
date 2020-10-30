@@ -1,10 +1,7 @@
-## Portfolio
-
----
-### CS PROJECTS
+## CS PROJECTS
 ---
 
-### ROBOTICS PROJECTS
+## ROBOTICS PROJECTS
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -19,7 +16,7 @@
 
 ---
 
-### R&D || DESIGN WORKS
+## R&D || DESIGN WORKS
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -29,7 +26,7 @@
 
 ---
 
-### FUN PROJECTS
+## FUN PROJECTS
 ---
 
 
