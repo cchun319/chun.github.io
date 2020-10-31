@@ -31,7 +31,7 @@
 
 ## FUN PROJECTS
 ---
-
+- [GUI Project/Fitting Circles](https://github.com/cchun319/GUI_fun)
 
 
 ---
