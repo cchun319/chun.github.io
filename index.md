@@ -3,8 +3,23 @@
 
 ## CS PROJECTS
 ---
+- [Cloud System](https://github.com/cchun319/DFS_BFS)
+<img src="" height="300" width="300"/>
+
+- [Chatroom](https://github.com/cchun319/DFS_BFS)
+<img src="" height="300" width="300"/>
+
+- [SMTP/POP3 Email Server](https://github.com/cchun319/DFS_BFS)
+<img src="" height="300" width="300"/>
+
 - [Breadth/Depth First Search](https://github.com/cchun319/DFS_BFS)
 <img src="images/DFS_BFS.png" height="300" width="300"/>
+
+- [AutoComplete](https://github.com/cchun319/DFS_BFS)
+<img src="" height="300" width="300"/>
+
+- [Aggregator](https://github.com/cchun319/DFS_BFS)
+<img src="" height="300" width="300"/>
 
 ## ROBOTICS PROJECTS
 
@@ -25,9 +40,6 @@
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
