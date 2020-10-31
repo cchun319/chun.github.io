@@ -9,7 +9,7 @@
 - [Chatroom](https://github.com/cchun319/DFS_BFS)
 <!-- <img src="" height="300" width="300"/> -->
 
-- [SMTP,POP3 Email Server](https://github.com/cchun319/DFS_BFS)
+- [SMTP POP3 Email Server](https://github.com/cchun319/DFS_BFS)
 <!-- <img src="" height="300" width="300"/> -->
 
 - [AutoComplete](https://github.com/cchun319/DFS_BFS)
