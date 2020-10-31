@@ -12,14 +12,14 @@
 - [SMTP/POP3 Email Server](https://github.com/cchun319/DFS_BFS)
 <img src="" height="300" width="300"/>
 
-- [Breadth/Depth First Search](https://github.com/cchun319/DFS_BFS)
-<img src="images/DFS_BFS.png" height="300" width="300"/>
-
 - [AutoComplete](https://github.com/cchun319/DFS_BFS)
-<img src="" height="300" width="300"/>
+<img src="images/au.png" height="300" width="300"/>
 
 - [Aggregator](https://github.com/cchun319/DFS_BFS)
-<img src="" height="300" width="300"/>
+<img src="images/ag.png" height="300" width="300"/>
+
+- [Breadth/Depth First Search](https://github.com/cchun319/DFS_BFS)
+<img src="images/DFS_BFS.png" height="300" width="300"/>
 
 ## ROBOTICS PROJECTS
 
