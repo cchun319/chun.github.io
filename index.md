@@ -32,7 +32,7 @@
 ## FUN PROJECTS
 ---
 - [GUI Project/Fitting Circles](https://github.com/cchun319/GUI_fun)
-<img src="images/fitcircle_intro.png?raw=true"/>
+<img src="images/fitcircle_intro.PNG?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
