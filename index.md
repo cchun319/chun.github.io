@@ -3,7 +3,7 @@
 
 ## CS PROJECTS
 ---
--[Breadth/Depth First Search](https://github.com/cchun319/DFS_BFS)
+- [Breadth/Depth First Search](https://github.com/cchun319/DFS_BFS)
 <img src="https://github.com/cchun319/DFS_BFS/blob/master/DFS.gif" width="300" height="300"/>
 
 ## ROBOTICS PROJECTS
