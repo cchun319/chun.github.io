@@ -4,7 +4,7 @@
 ## CS PROJECTS
 ---
 - [Breadth/Depth First Search](https://github.com/cchun319/DFS_BFS)
-<img src="images/DFS_BFS.png?raw=true"/ height="350" widt="350">
+<img src="images/DFS_BFS.png" height="300" width="300"/>
 
 ## ROBOTICS PROJECTS
 
@@ -34,7 +34,7 @@
 ## FUN PROJECTS
 ---
 - [GUI Project/Fitting Circles](https://github.com/cchun319/GUI_fun)
-<img src="images/fitcircle_intro.PNG?raw=true"/>
+<img src="images/fitcircle_intro.PNG" height="300" width="300"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
