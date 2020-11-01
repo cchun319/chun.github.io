@@ -3,15 +3,32 @@
 <html>
 <head>
 <style>
+ul.a {
+  list-style-type: circle;
+}
+  
 img {
   float: left;
 }
 </style>
 </head>
 <body>
-<h1>[Gallery</h1>
+<h1>GALLERY</h1>
+  
+<h2>PROGRAMMING</h2>
 
-<h2>- [Float Left](https://github.com/cchun319/GoogleCloud_Final)</h2>
+
+<h2>ROBOTICS</h2>
+
+<h3>
+  <ul class="a">
+  <a href="https://github.com/cchun319/GoogleCloud_Final">
+    <li>
+      Float Left
+    </li>
+  </a>
+  </ul>
+</h3>
 
 <h3>Gallery2</h3>
 
@@ -20,6 +37,8 @@ img {
 
 <p><img src="images/fitcircle_intro.PNG" alt="Pineapple" style="width:170px;height:170px;margin-right:15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
+
+<h2>R&D & PRODUCT DESIGN</h2>
 
 </body>
 </html>
