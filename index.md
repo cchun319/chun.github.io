@@ -3,23 +3,30 @@
 
 ## CS PROJECTS
 
+
 - [Cloud System](https://github.com/cchun319/GoogleCloud_Final)
-<img align="left" width="300" height="300" src="images/cloud.png"/>
+<img width="300" height="300" src="images/cloud.png"/>
+
 
 - [Chatroom](https://github.com/cchun319/DFS_BFS)
 <img src="images/chat.png" height="300" width="300"/>
 
+
 - [SMTP POP3 Email Server](https://github.com/cchun319/SMTP_POP3)
 <img src="images/mail.png" height="300" width="300"/>
+
 
 - [AutoComplete](https://github.com/cchun319/AutoComplete)
 <img src="images/au.png" height="300" width="300"/>
 
+
 - [Aggregator](https://github.com/cchun319/Aggregator)
 <img src="images/ag.png" height="300" width="300"/>
 
+
 - [Breadth, Depth First Search](https://github.com/cchun319/DFS_BFS)
 <img src="images/DFS_BFS.png" height="300" width="300"/>
+
 
 ---
 
@@ -28,11 +35,14 @@
 - [Drone Flight Control](https://github.com/cchun319/Robotics/tree/master/MAZE)
 <img src="images/drone.jpg" height="300" width="300"/>
 
+
 - [Artificial Potential Field](https://github.com/cchun319/Robotics/tree/master/520/ArtificialPotentialField)
 <img src="images/apf.jpg" height="300" width="300"/>
 
+
 - [Pose Estimation](https://github.com/cchun319/MachinePerception/tree/master/PoseMatching)
 <img src="images/train_177.jpg" height="300" width="420"/>
+
 
 ---
 
