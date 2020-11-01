@@ -9,9 +9,9 @@ img {
 </style>
 </head>
 <body>
-<h1>Gallery</h1>
+<h1>[Gallery</h1>
 
-<h2>Float Left</h2>
+<h2>- [Float Left](https://github.com/cchun319/GoogleCloud_Final)</h2>
 
 <h3>Gallery2</h3>
 
