@@ -31,8 +31,8 @@
 - [Artificial Potential Field](/pdf/sample_presentation.pdf)
 <img src="images/apf.jpg" height="300" width="300"/>
 
-- [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Pose Estimation](http://example.com/)
+<img src="images/train_177.jpg" height="300" width="420"/>
 
 ---
 
