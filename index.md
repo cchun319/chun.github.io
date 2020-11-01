@@ -3,13 +3,13 @@
 
 ## CS PROJECTS
 
-- [Cloud System](https://github.com/cchun319/DFS_BFS)
+- [Cloud System](https://github.com/cchun319/GoogleCloud_Final)
 <img src="images/cloud.png" height="300" width="300"/>
 
 - [Chatroom](https://github.com/cchun319/DFS_BFS)
 <img src="images/chat.png" height="300" width="300"/>
 
-- [SMTP POP3 Email Server](https://github.com/cchun319/DFS_BFS)
+- [SMTP POP3 Email Server](https://github.com/cchun319/SMTP_POP3)
 <img src="images/mail.png" height="300" width="300"/>
 
 - [AutoComplete](https://github.com/cchun319/AutoComplete)
@@ -25,13 +25,13 @@
 
 ## ROBOTICS PROJECTS
 
-- [Drone Flight Control](/sample_page)
+- [Drone Flight Control](https://github.com/cchun319/Robotics/tree/master/MAZE)
 <img src="images/drone.jpg" height="300" width="300"/>
 
-- [Artificial Potential Field](/pdf/sample_presentation.pdf)
+- [Artificial Potential Field](https://github.com/cchun319/Robotics/tree/master/520/ArtificialPotentialField)
 <img src="images/apf.jpg" height="300" width="300"/>
 
-- [Pose Estimation](http://example.com/)
+- [Pose Estimation](https://github.com/cchun319/MachinePerception/tree/master/PoseMatching)
 <img src="images/train_177.jpg" height="300" width="420"/>
 
 ---
