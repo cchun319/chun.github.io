@@ -25,12 +25,12 @@
 
 ## ROBOTICS PROJECTS
 
-- [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Drone Flight Control](/sample_page)
+<img src="images/drone.jpg" height="300" width="300"/>
 
 ---
-- [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Artificial Potential Field](/pdf/sample_presentation.pdf)
+<img src="images/apf.jpg" height="300" width="300/>
 
 ---
 - [Project 3 Title](http://example.com/)
