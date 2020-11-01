@@ -9,8 +9,12 @@ img {
 </style>
 </head>
 <body>
+<h1>Gallery</h1>
 
 <h2>Float Left</h2>
+
+<h3>Gallery2</h3>
+
 
 <p>In this example, the image will float to the left in the paragraph, and the text in the paragraph will wrap around the image.</p>
 
