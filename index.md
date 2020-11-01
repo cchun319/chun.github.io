@@ -2,7 +2,7 @@
 ---
 
 ## CS PROJECTS
----
+
 - [Cloud System](https://github.com/cchun319/DFS_BFS)
 <img src="images/cloud.png" height="300" width="300"/>
 
@@ -20,6 +20,8 @@
 
 - [Breadth, Depth First Search](https://github.com/cchun319/DFS_BFS)
 <img src="images/DFS_BFS.png" height="300" width="300"/>
+
+---
 
 ## ROBOTICS PROJECTS
 
