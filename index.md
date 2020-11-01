@@ -28,11 +28,9 @@
 - [Drone Flight Control](/sample_page)
 <img src="images/drone.jpg" height="300" width="300"/>
 
----
 - [Artificial Potential Field](/pdf/sample_presentation.pdf)
-<img src="images/apf.jpg" height="300" width="300/>
+<img src="images/apf.jpg" height="300" width="300"/>
 
----
 - [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
