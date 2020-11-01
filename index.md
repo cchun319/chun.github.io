@@ -4,7 +4,7 @@
 ## CS PROJECTS
 
 - [Cloud System](https://github.com/cchun319/GoogleCloud_Final)
-<img src="images/cloud.png" height="300" width="300"/>
+<img align="left" width="300" height="300" src="images/cloud.png"/>
 
 - [Chatroom](https://github.com/cchun319/DFS_BFS)
 <img src="images/chat.png" height="300" width="300"/>
