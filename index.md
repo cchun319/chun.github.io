@@ -10,12 +10,23 @@ ul.a {
 img {
   float: left;
 }
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
 </style>
 </head>
 <body>
 <h1>GALLERY</h1>
-  
+</hr>
+
 <h2>PROGRAMMING</h2>
+</hr>
 <p>
 <h3>
   <ul class="a">
@@ -99,9 +110,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
 <img src="images/DFS_BFS.png" style="width:160px;height:160px;margin-right:15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 <br><br>
-
+</hr>
 <h2>ROBOTICS</h2>
-
+</hr>
 <p>
 <h3>
   <ul class="a">
@@ -140,11 +151,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </a>
   </ul>
 </h3>
-<img src="images/train_177.jpg" style="width:110px;height:160px;margin-right:15px;">
+<img src="images/train_177.jpg" style="width:224;height:160px;margin-right:15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 <br><br>
 
+</hr>
 <h2>R&D & PRODUCT DESIGN</h2>
-
+</hr>
 </body>
 </html>
