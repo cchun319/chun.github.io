@@ -24,7 +24,7 @@ hr {
 <body>
 <h1>GALLERY</h1>
 <hr/>
-
+<!-- ******************************************************************************************************************************************************************-->
 <h2>PROGRAMMING</h2>
 <p>
 <h3>
@@ -109,6 +109,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
 <img src="images/DFS_BFS.png" style="width:160px;height:160px;margin-right:15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 <br><br>
+
+
+<!-- ******************************************************************************************************************************************************************--> 
 <hr/>
 <h2>ROBOTICS</h2>
 <p>
@@ -153,6 +156,35 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 <br><br>
 
+<p>
+<h3>
+  <ul class="a">
+  <a href="https://github.com/cchun319/Robotics/tree/master/520/ArtificialPotentialField">
+    <li>
+      Circle Detection
+    </li>
+  </a>
+  </ul>
+</h3>
+<p><img src="images/apf.jpg" style="width:160px;height:160px;margin-right:15px;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+<br><br>
+
+<p>
+<h3>
+  <ul class="a">
+  <a href="https://github.com/cchun319/Robotics/tree/master/520/ArtificialPotentialField">
+    <li>
+      RANSAC
+    </li>
+  </a>
+  </ul>
+</h3>
+<p><img src="images/apf.jpg" style="width:160px;height:160px;margin-right:15px;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+<br><br>
+
+<!-- ******************************************************************************************************************************************************************-->
 <hr/>
 <h2>R&D & PRODUCT DESIGN</h2>
 
