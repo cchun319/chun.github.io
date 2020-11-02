@@ -16,7 +16,7 @@ img {
 <h1>GALLERY</h1>
   
 <h2>PROGRAMMING</h2>
-
+<p>
 <h3>
   <ul class="a">
   <a href="https://github.com/cchun319/GoogleCloud_Final">
@@ -26,10 +26,11 @@ img {
   </a>
   </ul>
 </h3>
-<p><img src="images/cloud.png" style="width:200;height:200;margin-right:15px;">
+<img src="images/cloud.png" style="width:200;height:200;margin-right:15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 <br><br>
 
+<p>
 <h3>
   <ul class="a">
   <a href="https://github.com/cchun319/GoogleCloud_Final">
@@ -39,10 +40,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </a>
   </ul>
 </h3>
-<p><img src="images/chat.png" style="width:200;height:200;margin-right:15px;">
+<img src="images/chat.png" style="width:200;height:200;margin-right:15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 <br><br>
 
+<p>
 <h3>
   <ul class="a">
   <a href="https://github.com/cchun319/SMTP_POP3">
@@ -52,7 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </a>
   </ul>
 </h3>
-<p><img src="images/mail.png" style="width:200;height:200;margin-right:15px;">
+<img src="images/mail.png" style="width:200;height:200;margin-right:15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 <br><br>
 
