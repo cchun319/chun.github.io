@@ -26,7 +26,6 @@ hr {
 <hr/>
 
 <h2>PROGRAMMING</h2>
-<hr/>
 <p>
 <h3>
   <ul class="a">
@@ -112,7 +111,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
 <br><br>
 <hr/>
 <h2>ROBOTICS</h2>
-<hr/>
 <p>
 <h3>
   <ul class="a">
@@ -157,6 +155,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
 
 <hr/>
 <h2>R&D & PRODUCT DESIGN</h2>
-<hr/>
 </body>
 </html>
