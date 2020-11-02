@@ -188,6 +188,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
 <hr/>
 <h2>R&D & PRODUCT DESIGN</h2>
 
+<p>
+<h3>
+  <ul class="a">
+  <a href="https://hsnu610877.wixsite.com/chunchang0819/litemed-iaso">
+    <li>
+      RANSAC
+    </li>
+  </a>
+  </ul>
+</h3>
+<p><img src="images/image_2020-11-02_175359.png" style="width:240px;height:160px;margin-right:15px;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+<br><br>
+
 <br><br>
 </body>
 </html>
