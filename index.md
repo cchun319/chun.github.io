@@ -17,6 +17,83 @@ img {
   
 <h2>PROGRAMMING</h2>
 
+<h3>
+  <ul class="a">
+  <a href="https://github.com/cchun319/GoogleCloud_Final">
+    <li>
+      Cloud System
+    </li>
+  </a>
+  </ul>
+</h3>
+
+<p><img src="images/fitcircle_intro.PNG" alt="Pineapple" style="width:170px;height:170px;margin-right:15px;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+
+<h3>
+  <ul class="a">
+  <a href="https://github.com/cchun319/GoogleCloud_Final">
+    <li>
+      Chatroom
+    </li>
+  </a>
+  </ul>
+</h3>
+
+<p><img src="images/fitcircle_intro.PNG" alt="Pineapple" style="width:170px;height:170px;margin-right:15px;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+
+<h3>
+  <ul class="a">
+  <a href="https://github.com/cchun319/SMTP_POP3">
+    <li>
+      SMTP POP3 Email Server
+    </li>
+  </a>
+  </ul>
+</h3>
+
+<p><img src="images/fitcircle_intro.PNG" alt="Pineapple" style="width:170px;height:170px;margin-right:15px;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+
+<h3>
+  <ul class="a">
+  <a href="https://github.com/cchun319/AutoComplete">
+    <li>
+      AutoComplete
+    </li>
+  </a>
+  </ul>
+</h3>
+
+<p><img src="images/fitcircle_intro.PNG" alt="Pineapple" style="width:170px;height:170px;margin-right:15px;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+
+<h3>
+  <ul class="a">
+  <a href="https://github.com/cchun319/Aggregator">
+    <li>
+      Aggregator
+    </li>
+  </a>
+  </ul>
+</h3>
+
+<p><img src="images/fitcircle_intro.PNG" alt="Pineapple" style="width:170px;height:170px;margin-right:15px;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+
+<h3>
+  <ul class="a">
+  <a href="https://github.com/cchun319/DFS_BFS">
+    <li>
+      Breadth, Depth First Search
+    </li>
+  </a>
+  </ul>
+</h3>
+
+<p><img src="images/fitcircle_intro.PNG" alt="Pineapple" style="width:170px;height:170px;margin-right:15px;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 
 <h2>ROBOTICS</h2>
 
@@ -29,14 +106,6 @@ img {
   </a>
   </ul>
 </h3>
-
-<h3>Gallery2</h3>
-
-
-<p>In this example, the image will float to the left in the paragraph, and the text in the paragraph will wrap around the image.</p>
-
-<p><img src="images/fitcircle_intro.PNG" alt="Pineapple" style="width:170px;height:170px;margin-right:15px;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
 
 <h2>R&D & PRODUCT DESIGN</h2>
 
