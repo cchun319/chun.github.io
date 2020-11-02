@@ -58,6 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 <br><br>
 
+<p>
 <h3>
   <ul class="a">
   <a href="https://github.com/cchun319/AutoComplete">
@@ -67,10 +68,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </a>
   </ul>
 </h3>
-<p><img src="images/au.png" style="width:160px;height:160px;margin-right:15px;">
+<img src="images/au.png" style="width:160px;height:160px;margin-right:15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 <br><br>
 
+<p>
 <h3>
   <ul class="a">
   <a href="https://github.com/cchun319/Aggregator">
@@ -80,10 +82,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </a>
   </ul>
 </h3>
-<p><img src="images/ag.png" style="width:160px;height:160px;margin-right:15px;">
+<img src="images/ag.png" style="width:160px;height:160px;margin-right:15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 <br><br>
 
+<p>
 <h3>
   <ul class="a">
   <a href="https://github.com/cchun319/DFS_BFS">
@@ -93,12 +96,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </a>
   </ul>
 </h3>
-<p><img src="images/DFS_BFS.png" style="width:160px;height:160px;margin-right:15px;">
+<img src="images/DFS_BFS.png" style="width:160px;height:160px;margin-right:15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 <br><br>
 
 <h2>ROBOTICS</h2>
 
+<p>
 <h3>
   <ul class="a">
   <a href="https://github.com/cchun319/Robotics/tree/master/MAZE">
@@ -108,10 +112,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </a>
   </ul>
 </h3>
-<p><img src="images/drone.jpg" style="width:240px;height:160px;margin-right:15px;">
+<img src="images/drone.jpg" style="width:240px;height:160px;margin-right:15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 <br><br>
 
+<p>
 <h3>
   <ul class="a">
   <a href="https://github.com/cchun319/Robotics/tree/master/520/ArtificialPotentialField">
@@ -125,6 +130,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 <br><br>
 
+<p>
 <h3>
   <ul class="a">
   <a href="https://github.com/cchun319/MachinePerception/tree/master/PoseMatching">
@@ -134,7 +140,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </a>
   </ul>
 </h3>
-<p><img src="images/train_177.jpg" style="width:110px;height:160px;margin-right:15px;">
+<img src="images/train_177.jpg" style="width:110px;height:160px;margin-right:15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 <br><br>
 
