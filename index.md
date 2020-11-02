@@ -54,7 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </a>
   </ul>
 </h3>
-<img src="images/mail.png" style="width:200;height:200;margin-right:15px;">
+<img src="images/mail.png" style="width:200px;height:200px;margin-right:15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 <br><br>
 
