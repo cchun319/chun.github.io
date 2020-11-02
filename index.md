@@ -23,10 +23,10 @@ hr {
 </head>
 <body>
 <h1>GALLERY</h1>
-</hr>
+<hr/>
 
 <h2>PROGRAMMING</h2>
-</hr>
+<hr/>
 <p>
 <h3>
   <ul class="a">
@@ -110,9 +110,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
 <img src="images/DFS_BFS.png" style="width:160px;height:160px;margin-right:15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 <br><br>
-</hr>
+<hr/>
 <h2>ROBOTICS</h2>
-</hr>
+<hr/>
 <p>
 <h3>
   <ul class="a">
@@ -155,8 +155,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 <br><br>
 
-</hr>
+<hr/>
 <h2>R&D & PRODUCT DESIGN</h2>
-</hr>
+<hr/>
 </body>
 </html>
