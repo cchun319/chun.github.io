@@ -152,7 +152,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </a>
   </ul>
 </h3>
-<img src="images/train_177.jpg" style="width:224;height:160px;margin-right:15px;">
+<img src="images/image_2020-11-01_204516.png" style="width:224;height:160px;margin-right:15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
 <br><br>
 
