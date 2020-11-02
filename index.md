@@ -29,6 +29,7 @@ img {
 
 <p><img src="images/fitcircle_intro.PNG" alt="Pineapple" style="width:170px;height:170px;margin-right:15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+<br><br>
 
 <h3>
   <ul class="a">
