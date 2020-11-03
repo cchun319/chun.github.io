@@ -111,6 +111,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
 <br><br>
 
 
+<p>
+<h3>
+  <ul class="a">
+  <a href="https://github.com/cchun319/GUI_fun">
+    <li>
+      GUI Fun Project
+    </li>
+  </a>
+  </ul>
+</h3>
+<img src="images/fitcircle_intro.PNG" style="width:160px;height:160px;margin-right:15px;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+<br><br>
+
+
 <!-- ******************************************************************************************************************************************************************--> 
 <hr/>
 <h2>ROBOTICS</h2>
