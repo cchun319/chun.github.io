@@ -37,7 +37,7 @@ hr {
   </ul>
 </h3>
 <img src="images/cloud.png" style="width:160px;height:160px;margin-right:15px;">
-The Penn-Cloud system was built on C++. It had sophiscated features including file upload, send/write email, user log in/sign up.  
+The Penn-Cloud system was built on C++. It had sophiscated features including file upload, send/write email, user log in/sign up.<br>
 It had well-designed multi-threaded servers and load balancer on both of the front-end and back-end sides. The back-end servers were also able to do the fault tolerance and files backup.</p>
 <br><br>
 
@@ -52,7 +52,7 @@ It had well-designed multi-threaded servers and load balancer on both of the fro
   </ul>
 </h3>
 <img src="images/chat.png" style="width:160px;height:160px;margin-right:15px;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+The multi-threaded UDP chatroom supported 250 users to chat within different groups. Total ordering with the timestamps was implemented. </p>
 <br><br>
 
 <p>
