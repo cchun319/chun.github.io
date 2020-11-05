@@ -152,8 +152,10 @@ The fitting circle project was the implementation of the iterative algorithm to 
 <br><br>
 
 <!-- ******************************************************************************************************************************************************************--> 
+<article>
 <hr/>
 <h2>ROBOTICS</h2>
+</article>
 <article>
 <h3>
   <ul class="a">
