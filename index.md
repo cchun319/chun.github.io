@@ -66,7 +66,7 @@ The multi-threaded UDP chatroom supported 250 users to chat within different gro
   </ul>
 </h3>
 <img src="images/mail.png" style="width:160px;height:160px;margin-right:15px;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+The multi-threaded SMTP/POP3 email servers were fully compatible with Thunrderbird in linux </p>
 <br><br>
 
 <p>
@@ -80,7 +80,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </ul>
 </h3>
 <img src="images/au.png" style="width:160px;height:160px;margin-right:15px;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+The autocomplete imported the word list and auto-completed the search with the list. </p>
 <br><br>
 
 <p>
@@ -94,7 +94,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </ul>
 </h3>
 <img src="images/ag.png" style="width:160px;height:160px;margin-right:15px;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+The aggregator used the Jsoup library to get the content from desired website by RSS feeds and scanned the words to auto-complete the search with the importance of the word. </p>
 <br><br>
 
 <p>
@@ -108,7 +108,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </ul>
 </h3>
 <img src="images/DFS_BFS.png" style="width:160px;height:160px;margin-right:15px;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+The BFS/DFS was a project for the visualizaion of the both algorithms. The maze was generated randomly by the union-find algorithm. </p>
 <br><br>
 
 
@@ -123,7 +123,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </ul>
 </h3>
 <img src="images/fitcircle_intro.PNG" style="width:160px;height:160px;margin-right:15px;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+The fitting circle project was the implementation of the iterative algorithm to minimize the error to fit a circle. And it was also a practice for the visualization tool in JAVA.</p>
 <br><br>
 
 
@@ -141,7 +141,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </ul>
 </h3>
 <img src="images/drone.jpg" style="width:240px;height:160px;margin-right:15px;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+The  </p>
 <br><br>
 
 <p>
