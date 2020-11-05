@@ -19,6 +19,12 @@ hr {
     margin: 1em 0;
     padding: 0;
 }
+
+article {
+  float: left;
+  padding: 0px;
+  width: 70%;
+}
 </style>
 </head>
 <body>
@@ -26,6 +32,8 @@ hr {
 <hr/>
 <!-- ******************************************************************************************************************************************************************-->
 <h2>PROGRAMMING</h2>
+  
+<article>
 <p>
 <h3>
   <ul class="a">
@@ -39,8 +47,10 @@ hr {
 <img src="images/cloud.png" style="width:160px;height:160px;margin-right:15px;">
 The Penn-Cloud system was built on C++. It had sophiscated features including file upload, send/write email, user log in/sign up.<br>
 It had well-designed multi-threaded servers and load balancer on both of the front-end and back-end sides. The back-end servers were also able to do the fault tolerance and files backup.</p>
+</article>
 <br>
 
+<article>
 <p>
 <h3>
   <ul class="a">
@@ -54,6 +64,7 @@ It had well-designed multi-threaded servers and load balancer on both of the fro
 <img src="images/chat.png" style="width:160px;height:160px;margin-right:15px;">
 The multi-threaded UDP chatroom supported 250 users to chat within different groups. Total ordering with the timestamps was implemented.  
 </p>
+</article>
 <br>
 
 <p>
