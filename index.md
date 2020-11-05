@@ -214,7 +214,7 @@ Implementation of pose matching by minimizing the least square error in Colab.
   </a>
   </ul>
 </h3>
-<p><img src="images/apf.jpg" style="width:160px;height:160px;margin-right:15px;">
+<p><img src="images/circledetection.jpg" style="width:160px;height:160px;margin-right:15px;">
 Circle detection of the photo was done by the laplacian method and analysis of frequency domain of the image.
 </p>
 </article>
@@ -230,7 +230,7 @@ Circle detection of the photo was done by the laplacian method and analysis of f
   </a>
   </ul>
 </h3>
-<p><img src="images/apf.jpg" style="width:160px;height:160px;margin-right:15px;">
+<p><img src="images/ransac.png" style="width:160px;height:160px;margin-right:15px;">
 This project was estimation of camera's positon by calcualtion of epipolar lines and usage of RANSAC to attain the most reliable informaton from two photos.
 </p>
 </article>
