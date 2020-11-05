@@ -66,6 +66,7 @@ The multi-threaded UDP chatroom supported 250 users to chat within different gro
 </p>
 </article>
 <br><br>
+
 <article>
 <h3>
   <ul class="a">
@@ -82,6 +83,7 @@ The multi-threaded SMTP/POP3 email servers were fully compatible with Thunrderbi
 </p>
 </article>
 <br><br>
+
 <article>
 <h3>
   <ul class="a">
@@ -98,6 +100,7 @@ The autocomplete imported the word list and auto-completed the search with the l
 </p>
 </article>
 <br><br>
+
 <article>
 <h3>
   <ul class="a">
@@ -113,6 +116,7 @@ The autocomplete imported the word list and auto-completed the search with the l
 The aggregator used the Jsoup library to get the content from desired website by RSS feeds and scanned the words to auto-complete the search with the importance of the word. </p>
 </article>
 <br><br>
+
 <article>
 <h3>
   <ul class="a">
@@ -129,6 +133,7 @@ The BFS/DFS was a project for the visualizaion of the both algorithms. The maze 
 </p>
 </article>
 <br><br>
+
 <article>
 <h3>
   <ul class="a">
@@ -144,6 +149,7 @@ The BFS/DFS was a project for the visualizaion of the both algorithms. The maze 
 The fitting circle project was the implementation of the iterative algorithm to minimize the error to fit a circle. And it was also a practice for the visualization tool in JAVA.</p>
 </article>
 <br><br>
+
 <!-- ******************************************************************************************************************************************************************--> 
 <hr/>
 <h2>ROBOTICS</h2>
@@ -162,6 +168,7 @@ The fitting circle project was the implementation of the iterative algorithm to 
 The Drone project was an exploration of A* and Dijkstra algorithm combined with the snap control method. The reuslt was visualized by Matlab.
 </p>
 </article>
+
 <br><br>
 <article>
 <h3>
@@ -178,6 +185,7 @@ The path planning of the robotics arm was achieved by Artificial Potentail Field
 </p>
 </article>
 <br><br>
+
 <article>
 <h3>
   <ul class="a">
@@ -208,6 +216,7 @@ Circle detection of the photo was done by the laplacian method and analysis of f
 </p>
 </article>
 <br><br>
+
 <article>
 <h3>
   <ul class="a">
@@ -223,6 +232,7 @@ This project was estimation of camera's positon by calcualtion of epipolar lines
 </p>
 </article>
 <br><br>
+
 <article>
 <h3>
   <ul class="a">
