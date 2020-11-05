@@ -251,8 +251,10 @@ The battle robot was made by 3D priting parts and lazer cutting boards. The teen
 </article>
 <br><br>
 <!-- ******************************************************************************************************************************************************************-->
+<article>
 <hr/>
 <h2>R&D & PRODUCT DESIGN</h2>
+</article>
 
 <article>
 <h3>
