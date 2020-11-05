@@ -23,7 +23,7 @@ hr {
 article {
   float: left;
   padding: 0px;
-  width: 70%;
+  width: 100%;
 }
 </style>
 </head>
