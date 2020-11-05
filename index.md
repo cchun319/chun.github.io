@@ -39,7 +39,6 @@ hr {
 <img src="images/cloud.png" style="width:160px;height:160px;margin-right:15px;">
 The Penn-Cloud system was built on C++. It had sophiscated features including file upload, send/write email, user log in/sign up.<br>
 It had well-designed multi-threaded servers and load balancer on both of the front-end and back-end sides. The back-end servers were also able to do the fault tolerance and files backup.</p>
-<br><br>
 
 <p>
 <h3>
@@ -52,8 +51,8 @@ It had well-designed multi-threaded servers and load balancer on both of the fro
   </ul>
 </h3>
 <img src="images/chat.png" style="width:160px;height:160px;margin-right:15px;">
-The multi-threaded UDP chatroom supported 250 users to chat within different groups. Total ordering with the timestamps was implemented. </p>
-<br><br>
+The multi-threaded UDP chatroom supported 250 users to chat within different groups. Total ordering with the timestamps was implemented. 
+</p>
 
 <p>
 <h3>
@@ -66,8 +65,8 @@ The multi-threaded UDP chatroom supported 250 users to chat within different gro
   </ul>
 </h3>
 <img src="images/mail.png" style="width:160px;height:160px;margin-right:15px;">
-The multi-threaded SMTP/POP3 email servers were fully compatible with Thunrderbird in linux </p>
-<br><br>
+The multi-threaded SMTP/POP3 email servers were fully compatible with Thunrderbird in linux 
+</p>
 
 <p>
 <h3>
@@ -80,8 +79,8 @@ The multi-threaded SMTP/POP3 email servers were fully compatible with Thunrderbi
   </ul>
 </h3>
 <img src="images/au.png" style="width:160px;height:160px;margin-right:15px;">
-The autocomplete imported the word list and auto-completed the search with the list. </p>
-<br><br>
+The autocomplete imported the word list and auto-completed the search with the list. 
+</p>
 
 <p>
 <h3>
@@ -95,7 +94,6 @@ The autocomplete imported the word list and auto-completed the search with the l
 </h3>
 <img src="images/ag.png" style="width:160px;height:160px;margin-right:15px;">
 The aggregator used the Jsoup library to get the content from desired website by RSS feeds and scanned the words to auto-complete the search with the importance of the word. </p>
-<br><br>
 
 <p>
 <h3>
@@ -108,9 +106,8 @@ The aggregator used the Jsoup library to get the content from desired website by
   </ul>
 </h3>
 <img src="images/DFS_BFS.png" style="width:160px;height:160px;margin-right:15px;">
-The BFS/DFS was a project for the visualizaion of the both algorithms. The maze was generated randomly by the union-find algorithm. </p>
-<br><br>
-
+The BFS/DFS was a project for the visualizaion of the both algorithms. The maze was generated randomly by the union-find algorithm.
+</p>
 
 <p>
 <h3>
@@ -124,8 +121,6 @@ The BFS/DFS was a project for the visualizaion of the both algorithms. The maze 
 </h3>
 <img src="images/fitcircle_intro.PNG" style="width:160px;height:160px;margin-right:15px;">
 The fitting circle project was the implementation of the iterative algorithm to minimize the error to fit a circle. And it was also a practice for the visualization tool in JAVA.</p>
-<br><br>
-
 
 <!-- ******************************************************************************************************************************************************************--> 
 <hr/>
@@ -141,8 +136,8 @@ The fitting circle project was the implementation of the iterative algorithm to 
   </ul>
 </h3>
 <img src="images/drone.jpg" style="width:240px;height:160px;margin-right:15px;">
-The Drone project was an exploration of A* and Dijkstra algorithm combined with the snap control method. The reuslt was visualized by Matlab</p>
-<br><br>
+The Drone project was an exploration of A* and Dijkstra algorithm combined with the snap control method. The reuslt was visualized by Matlab.
+</p>
 
 <p>
 <h3>
@@ -155,8 +150,8 @@ The Drone project was an exploration of A* and Dijkstra algorithm combined with 
   </ul>
 </h3>
 <p><img src="images/apf.jpg" style="width:160px;height:160px;margin-right:15px;">
-The path planning of the robotics arm was achieved by Artificial Potentail Field method which makes every joint move from the high potential position(source) to the low potential positions(destination) </p>
-<br><br>
+The path planning of the robotics arm was achieved by Artificial Potentail Field method which makes every joint move from the high potential position(source) to the low potential positions(destination) 
+</p>
 
 <p>
 <h3>
@@ -169,8 +164,8 @@ The path planning of the robotics arm was achieved by Artificial Potentail Field
   </ul>
 </h3>
 <img src="images/image_2020-11-01_204516.png" style="width:224;height:160px;margin-right:15px;">
-Implementation of pose matching by minimizing the least square error in Colab</p>
-<br><br>
+Implementation of pose matching by minimizing the least square error in Colab.
+</p>
 
 <p>
 <h3>
@@ -183,8 +178,8 @@ Implementation of pose matching by minimizing the least square error in Colab</p
   </ul>
 </h3>
 <p><img src="images/apf.jpg" style="width:160px;height:160px;margin-right:15px;">
-Circle detection of the photo was done by the laplacian method and analysis of frequency domain of the image </p>
-<br><br>
+Circle detection of the photo was done by the laplacian method and analysis of frequency domain of the image.
+</p>
 
 <p>
 <h3>
@@ -197,8 +192,8 @@ Circle detection of the photo was done by the laplacian method and analysis of f
   </ul>
 </h3>
 <p><img src="images/apf.jpg" style="width:160px;height:160px;margin-right:15px;">
-This project was estimation of camera's positon by calcualtion of epipolar lines and usage of RANSAC to attain the most reliable informaton from two photos.</p>
-<br><br>
+This project was estimation of camera's positon by calcualtion of epipolar lines and usage of RANSAC to attain the most reliable informaton from two photos.
+</p>
 
 <p>
 <h3>
@@ -212,7 +207,6 @@ This project was estimation of camera's positon by calcualtion of epipolar lines
 </h3>
 <p><img src="images/rt.png" style="width:160px;height:160px;margin-right:15px;">
 The battle robot was made by 3D priting parts and lazer cutting boards. The teensy chip and ESP32 were used for remote motion control, and it was coded in arduino environment. </p>
-<br><br>
 
 <!-- ******************************************************************************************************************************************************************-->
 <hr/>
@@ -229,8 +223,8 @@ The battle robot was made by 3D priting parts and lazer cutting boards. The teen
   </ul>
 </h3>
 <p><img src="images/image_2020-11-02_175359.png" style="width:240px;height:160px;margin-right:15px;">
-Revamped the Extracorporeal Shockwave Machine with lower cost of the shell, high efficiency assembly method, better water routing arrangement and heat exhausting design.</p>
-<br><br>
+Revamped the Extracorporeal Shockwave Machine with lower cost of the shell, high efficiency assembly method, better water routing arrangement and heat exhausting design.
+</p>
 
 </body>
 </html>
