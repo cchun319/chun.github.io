@@ -21,7 +21,7 @@ hr {
 }
 
 article {
-  margin-top:20px;
+  margin-top:30px;
   float: left;
   padding: 0px;
   width: 100%;
