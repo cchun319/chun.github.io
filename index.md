@@ -141,7 +141,7 @@ The fitting circle project was the implementation of the iterative algorithm to 
   </ul>
 </h3>
 <img src="images/drone.jpg" style="width:240px;height:160px;margin-right:15px;">
-The  </p>
+The Drone project was an exploration of A* and Dijkstra algorithm combined with the snap control method. The reuslt was visualized by Matlab</p>
 <br><br>
 
 <p>
@@ -155,7 +155,7 @@ The  </p>
   </ul>
 </h3>
 <p><img src="images/apf.jpg" style="width:160px;height:160px;margin-right:15px;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+The path planning of the robotics arm was achieved by Artificial Potentail Field method which makes every joint move from the high potential position(source) to the low potential positions(destination) </p>
 <br><br>
 
 <p>
@@ -169,7 +169,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </ul>
 </h3>
 <img src="images/image_2020-11-01_204516.png" style="width:224;height:160px;margin-right:15px;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+Implementation of pose matching by minimizing the least square error in Colab</p>
 <br><br>
 
 <p>
@@ -183,7 +183,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </ul>
 </h3>
 <p><img src="images/apf.jpg" style="width:160px;height:160px;margin-right:15px;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+Circle detection of the photo was done by the laplacian method and analysis of frequency domain of the image </p>
 <br><br>
 
 <p>
@@ -197,7 +197,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </ul>
 </h3>
 <p><img src="images/apf.jpg" style="width:160px;height:160px;margin-right:15px;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+This project was estimation of camera's positon by calcualtion of epipolar lines and usage of RANSAC to attain the most reliable informaton from two photos.</p>
 <br><br>
 
 <p>
@@ -211,7 +211,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </ul>
 </h3>
 <p><img src="images/rt.png" style="width:160px;height:160px;margin-right:15px;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+The battle robot was made by 3D priting parts and lazer cutting boards. The teensy chip and ESP32 were used for remote motion control, and it was coded in arduino environment. </p>
 <br><br>
 
 <!-- ******************************************************************************************************************************************************************-->
@@ -229,7 +229,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
   </ul>
 </h3>
 <p><img src="images/image_2020-11-02_175359.png" style="width:240px;height:160px;margin-right:15px;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. </p>
+Revamped the Extracorporeal Shockwave Machine with lower cost of the shell, high efficiency assembly method, better water routing arrangement and heat exhausting design.</p>
 <br><br>
 
 </body>
