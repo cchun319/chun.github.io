@@ -207,7 +207,7 @@ Implementation of pose matching by minimizing the least square error in Colab.
 <article>
 <h3>
   <ul class="a">
-  <a href="https://github.com/cchun319/Robotics/tree/master/520/ArtificialPotentialField">
+  <a href="https://github.com/cchun319/MachinePerception/tree/master/CircleFinding">
     <li>
       Circle Detection
     </li>
@@ -223,7 +223,7 @@ Circle detection of the photo was done by the laplacian method and analysis of f
 <article>
 <h3>
   <ul class="a">
-  <a href="https://github.com/cchun319/Robotics/tree/master/520/ArtificialPotentialField">
+  <a href="https://github.com/cchun319/MachinePerception/tree/master/RANSAC">
     <li>
       RANSAC
     </li>
