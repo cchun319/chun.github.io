@@ -53,13 +53,9 @@ It had well-designed multi-threaded servers and load balancer on both of the fro
 
 <article>
 <h3>
-  <ul class="a">
-  <a href="https://github.com/cchun319/GoogleCloud_Final">
     <li>
       Chatroom
     </li>
-  </a>
-  </ul>
 </h3>
 <p>
 <img src="images/chat.png" style="width:160px;height:160px;margin-right:15px;">
