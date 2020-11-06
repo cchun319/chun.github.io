@@ -207,7 +207,7 @@ Implementation of pose matching by minimizing the least square error in Colab.
 <article>
 <h3>
   <ul class="a">
-  <a href="https://github.com/cchun319/MachinePerception/tree/master/CircleFinding">
+  <a href="https://github.com/cchun319/MachinePerception/tree/master/CircleFinding/HW4">
     <li>
       Circle Detection
     </li>
