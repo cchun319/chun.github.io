@@ -152,6 +152,23 @@ The fitting circle project was the implementation of the iterative algorithm to 
 <hr/>
 <h2>ROBOTICS</h2>
 </article>
+
+<article>
+<h3>
+  <ul class="a">
+  <a href="https://github.com/cchun319/SLAM-Learning/tree/main/HW/ROS_EXPLORE">
+    <li>
+      Turtlebot3 Exploration Tasks
+    </li>
+  </a>
+  </ul>
+</h3>
+<p>
+  <img src="https://github.com/cchun319/SLAM-Learning/blob/main/HW/ROS_EXPLORE/Figure_1.png" style="width:240px;height:160px;margin-right:15px;">
+The project simulated the exploration tasks by SLAM, PID and Information Gain method in ROS
+</p>
+</article>
+
 <article>
 <h3>
   <ul class="a">
